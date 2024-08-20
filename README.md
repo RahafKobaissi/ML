@@ -13,7 +13,7 @@
 > Notebook: Cheese_Project.ipynb
  </br>This notebook is similar to the Titanic analysis but focuses on the cheese dataset:
 - Data Visualization: Visualize characteristics of different components in cheese ( eg:'lipides', 'retinol', 'folates')
-- Machine Learning Models: Develop and evaluate K-Nearest Neighbors (KNN) and Decision Tree models to predict the amount of calories in different types of cheese.
+- Machine Learning Models: Develop and evaluate machine learning models using linear and polynomial regression to predict the amount of calories in different types of cheese.
 <br></br>
 
 3. Unsupervised Learning on Cheese Dataset
