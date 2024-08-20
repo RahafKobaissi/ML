@@ -7,8 +7,7 @@
  This notebook explores the Titanic dataset with the following tasks:
 - Data Visualization: Perform visualizations to analyze passenger demographics, survival rates, and class distribution.
 - Machine Learning Models: Build and evaluate machine learning models using K-Nearest Neighbors (KNN) and Decision Trees to predict survival.
-
-<br></br>
+</br>
 2. Cheese Dataset Analysis
 > Notebook: Cheese_Project.ipynb
  This notebook is similar to the Titanic analysis but focuses on the cheese dataset:
