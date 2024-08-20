@@ -4,14 +4,14 @@
 
 1. Titanic Dataset Analysis:
 > Notebook: Titanic_Project.ipynb
- </br>This notebook explores the Titanic dataset with the following tasks:
+ </br>This notebook analyzes the Titanic dataset by implementing a classificational models to predict the survival or death of individuals on the titanic.The notebook contains:
 - Data Visualization: Perform visualizations to analyze passenger demographics, survival rates, and class distribution.
 - Machine Learning Models: Build and evaluate machine learning models using K-Nearest Neighbors (KNN) and Decision Trees to predict survival.
 <br></br>
 
 2. Cheese Dataset Analysis
 > Notebook: Cheese_Project.ipynb
- </br>This notebook is similar to the Titanic analysis but focuses on the cheese dataset:
+ </br>This notebook analyzes the Cheese dataset by implementing a regression model to predict the amount of calories in different types of cheese.The notebook contains:
 - Data Visualization: Visualize characteristics of different components in cheese ( eg:'lipides', 'retinol', 'folates')
 - Machine Learning Models: Develop and evaluate machine learning models using linear and polynomial regression to predict the amount of calories in different types of cheese.
 <br></br>
